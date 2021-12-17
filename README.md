@@ -11,7 +11,7 @@
 https://thalitaoliveira-portfolio.web.app/
 
 :blue_heart: LinkedIn  
-https://www.linkedin.com/in/thalita-oliveira-b7906020a/
+https://www.linkedin.com/in/thalitatholiveira/
 
 :white_heart: Resume  
 https://drive.google.com/file/d/1sMnQApWGY-9fNY5Q4FqM-yiN22bLqW6o/view?usp=sharing
