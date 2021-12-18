@@ -1,17 +1,21 @@
 ## Desafio Git e GitHub | Digital Innovation One
 
-### About me...
+### About me
 👩‍💻 Thalita Oliveira  
 :woman: 21 years old  
 :brazil: Brazilian  
 :computer: Front-end developer
 
-### My links...
-:purple_heart: Portfolio  
-https://thalitaoliveira-portfolio.web.app/
+### My links
 
-:blue_heart: LinkedIn  
-https://www.linkedin.com/in/thalitatholiveira/
+<a href="https://thalitaoliveira-portfolio.web.app/">
+  Portfolio
+</a> |
 
-:white_heart: Resume  
-https://drive.google.com/file/d/107zdocKpTKBvkDZAKKLRM6ICn-49hngp/view?usp=sharing
+<a href="https://www.linkedin.com/in/thalitatholiveira/">
+  LinkedIn
+</a> |
+
+<a href="https://drive.google.com/file/d/107zdocKpTKBvkDZAKKLRM6ICn-49hngp/view?usp=sharing">
+ Resume
+</a>
