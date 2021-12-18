@@ -16,6 +16,6 @@
   LinkedIn
 </a> |
 
-<a href="https://drive.google.com/file/d/107zdocKpTKBvkDZAKKLRM6ICn-49hngp/view?usp=sharing">
+<a href="https://drive.google.com/file/d/174CT0O6CRacz9TNMvcU8zz2EDuMCAwiD/view?usp=sharing">
  Resume
 </a>
