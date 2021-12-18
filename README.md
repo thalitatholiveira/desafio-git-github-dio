@@ -14,4 +14,4 @@ https://thalitaoliveira-portfolio.web.app/
 https://www.linkedin.com/in/thalitatholiveira/
 
 :white_heart: Resume  
-https://drive.google.com/file/d/1sMnQApWGY-9fNY5Q4FqM-yiN22bLqW6o/view?usp=sharing
+https://drive.google.com/file/d/107zdocKpTKBvkDZAKKLRM6ICn-49hngp/view?usp=sharing
